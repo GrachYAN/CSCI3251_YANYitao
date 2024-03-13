@@ -1,2 +1,3 @@
 # CSCI3251_YANYitao
-This is the project of YANYitao
+I am YAN Yitao from CUHK, CSCI
+My sid is 1155191529
